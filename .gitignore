@@ -1,0 +1,23 @@
+# ---- Unreal Engine 生成目录（在各层级均匹配）----
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ---- IDE / 编译产物 ----
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
+
+# ---- 系统 / Office 临时文件 ----
+~$*
+Thumbs.db
+desktop.ini
